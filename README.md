@@ -21,7 +21,7 @@ This project involves:
 
 ## 📋 Project Requirements
 - **Dataset Structure**:  
-  <img src="https://github.com/harithadamm/asset-project/blob/main/Screenshot%201.png " width="400" /> 
+  <img src="https://github.com/harithadamm/asset-project/blob/main/data_model.png " width="400" /> 
 
 - **Tools & Technologies**:  
   - SQL Server (SSMS) → EDA queries, joins, aggregations, window functions.  
